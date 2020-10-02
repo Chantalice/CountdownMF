@@ -1,3 +1,3 @@
 # CountdownMF
 
-https://chantalice.github.io/Countdown.MF
+https://chantalice.github.io/CountdownMF/
